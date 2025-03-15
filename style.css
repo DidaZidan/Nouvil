@@ -1,0 +1,8 @@
+.dida .card{
+    box-shadow: 1px 1px 30px #ffc107;
+    transition: 0.4s;
+    cursor: pointer;
+}
+.dida .card:hover{
+    scale: 1.03;
+}
